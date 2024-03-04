@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "SimplerPro Black";
+  src: url("https://db.onlinewebfonts.com/t/172d859aa593acf1d34ffbd06798b386.eot");
+  src: url("https://db.onlinewebfonts.com/t/172d859aa593acf1d34ffbd06798b386.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/172d859aa593acf1d34ffbd06798b386.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/172d859aa593acf1d34ffbd06798b386.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/172d859aa593acf1d34ffbd06798b386.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/172d859aa593acf1d34ffbd06798b386.svg#SimplerPro Black")format("svg");
+}
+@font-face {
+  font-family: "Anomalia 1.0 AAA";
+  src: url("https://db.onlinewebfonts.com/t/39a1e52afd3d70763a6b7922b35eca83.eot");
+  src: url("https://db.onlinewebfonts.com/t/39a1e52afd3d70763a6b7922b35eca83.eot?#iefix") format("embedded-opentype"),
+       url("https://db.onlinewebfonts.com/t/2ecc29f5f909de1152b76b935fa51c0f.woff2") format("woff2"),
+       url("https://db.onlinewebfonts.com/t/2ecc29f5f909de1152b76b935fa51c0f.woff") format("woff"),
+       url("https://db.onlinewebfonts.com/t/2ecc29f5f909de1152b76b935fa51c0f.ttf") format("truetype"),
+       url("https://db.onlinewebfonts.com/t/2ecc29f5f909de1152b76b935fa51c0f.svg#Anomalia 1.0 AAA") format("svg");
+}
+
+
+:root {
+  --root-background-color: #e9eef6;
+  --primary-background-color: #888; 
+  --secondary-background-color: #555; 
+  --border-color: #E4EAF2;
+  --accent-background-color-1: #999; 
+  --accent-background-color-2: #ccc;
+  --light-blue: #e0f3fe;
+  --failed-text-color: #BE123C;
+  --failed-background-color: #fdd4d1;
+  --mid-text-color: #F59E0B;
+  --mid-background-color: #FFF7E6;
+  --perfect-text-color: #059669;
+  --perfect-background-color: #DFFCF0;
+    background-color: var(--root-background-color);
+  --complete-class-color-background: #ECFDF5;
+  --student-in-class-color-background: #E0F2FE;
+  --failed-in-class-color-background: #FFF1F0;
+  --skipped-class-color-background: #E4EAF2;
+  --complete-class-color: #2ABB7F;
+  --student-in-class-color: #002266;
+  --failed-in-class-color: #BE123C;
+  --skipped-class-color: #475569;
+  --average-class-grade-color: #0FA9FF;
+
+}
+

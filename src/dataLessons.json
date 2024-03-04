@@ -1,0 +1,1278 @@
+[
+    {
+        "lesson_name": "תנך",
+        "lesson_number": 1,
+        "book_name": "שמואל א'",
+        "book_chapter": "שמואל",
+        "avarage_corrections": 1.5,
+        "total_students": 16,
+        "finished_the_class": 12,
+        "total_passed": 20,
+        "total_failed": 4,
+        "preview_lesson": "שמואל א' בתנ''ך הוא אחד משני הספרים הראשונים בנביאים הראשונים בכתבי הקודש. הספר עוסק בתקופת השופטים והמעבר אל המלוכה בישראל. מעמדת הנביא שמואל, נבואתו לשאול, מלחמת הפלשתים וקרבות עם עמון ועמלק, וכן מעשי דוד בתקופתו כמלך, הם חלק מהאירועים המרכזיים בספר. בנוסף, הספר מתאר את הקשרים המורכבים בין דוד לשאול, ואת המאבקים הפוליטיים והמורכבים של דוד להקים מלוכה בישראל.",
+        "tasks": [
+            {
+                "name": "משימה 6",
+                "type": "closed Question",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 5",
+                "type": "content",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 4",
+                "type": "open Question",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 3",
+                "type": "content",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 2",
+                "type": "closed Question",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 1",
+                "type": "open Question",
+                "points": 16.67
+            }
+        ],
+        "students": [
+            {
+                "name": "יוסף חי  כהן",
+                "skipped": false,
+                "comments": "מציג התמדה מצוינת בשיעור, תמיד משתתף ומשתייך בפעילות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "4/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "5/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "שירה כהן",
+                "skipped": false,
+                "comments": "צריך להקדיש יותר תשומת לב בשיעורים, לעיתים מוסר ותשומת לב לא מספיקה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "עמית כהן",
+                "skipped": false,
+                "comments": "מציג שיפור משמעותי בהשתתפות והתמדה לאחרונה, ממשיך כך!",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "רוני גולן",
+                "skipped": false,
+                "comments": "נאבק לשמור על תשומת הלב במהלך הדיונים, יכול להרוויח מהטמעת טכניקות שמיעה פעילות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "אורן שוורץ",
+                "skipped": false,
+                "comments": "תמיד קשוב ומרוכז, מציב מודל חיובי לכמותו של חבריו בכיתה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "נילי בראון",
+                "skipped": false,
+                "comments": "דורש תזכורות מדי פעם כדי לשמור על ריכוז במהלך השיעורים אך מציג שיפור מעל זמן",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "skipped",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "עמית בן אברהם",
+                "skipped": false,
+                "comments": "מתאים עם התלהבות ממידע, אך יכול להרוויח מתשומת לב יותר עדינה להוראות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "מארק דהן",
+                "skipped": false,
+                "comments": "נראה מנותק במהלך השיעור, עשוי להרוויח מתמיכה נוספת או שיטות הוראה אלטרנטיביות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "6/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "רוני שטיינברג",
+                "skipped": false,
+                "comments": "לעיתים נמשך על ידי גורמים חיצוניים, יכול להרוויח ממציאת אסטרטגיות להפחתת הפרעות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "יוסי כהן",
+                "skipped": false,
+                "comments": "לעיתים נמשך על ידי גורמים חיצוניים, יכול להרוויח ממציאת אסטרטגיות להפחתת הפרעות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "נעמה גולדשטיין",
+                "skipped": false,
+                "comments": "מציגה באופן קבוע מעורבות חזקה בחומר, שואלת שאלות מאתגרות ומחפשת הבהרות כשנדרשת",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "אלון לוי",
+                "skipped": false,
+                "comments": "לעיתים מתעסק בשיחות לא רלוונטיות, נדרש להופנות כדי לשמור על המשימה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "משה חי כהן",
+                "skipped": false,
+                "comments": "מתקשה לשמור על ריכוז במהלך שיעורים ארוכים יותר, יכול להרוויח מהטמעת הפסקות קצרות להתמקדות מחדש",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "יעקב בראון",
+                "skipped": false,
+                "comments": "מציג באופן קבוע מיומנויות שמיעה פעילות, מתרומם בצורה מחשיבה לדיוני הכיתה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "ירון רוזנפלד",
+                "skipped": false,
+                "comments": "מציג באופן קבוע מיומנויות שמיעה פעילות, מתרומם בצורה מחשיבה לדיוני הכיתה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "ירון דנינו",
+                "skipped": true,
+                "comments": "נראה נעלם במהלך השיעורים, עשוי להרוויח מהופנות נוספות ומעורבות בהם",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson_name": "תנך",
+        "lesson_number": 2,
+        "book_name": "שמואל ב'",
+        "book_chapter": " יחסי דוד שאול",
+        "avarage_corrections": 1.5,
+        "total_students": 16,
+        "finished_the_class": 12,
+        "total_passed": 20,
+        "total_failed": 4,
+        "preview_lesson": "שמואל ב' הוא ספר שני בסדרת הנביאים הראשונים בתנך. הספר מתאר את התקופה בה קימתה המלוכה של דוד בישראל, והיא נמשכת מהשנים שאחרי המלחמה בין בית שאול לבית דוד, ועד רצחו של איש בעל-הבעלים אוריה החתי וקיצור ימי דוד. בספר מתוארים אירועים מרכזיים כמו הקמת המלוכה של דוד, קרבותיה של העם היהודי בעימותים שונים כמו מלחמת הפלשתים, וגם התמוטטות הממלכה של דוד כתוצאה ממעשי עבירה ומריבות פנימיות. בספר מובאות גם נבואות של הנביא נתן אל דוד והנביא גד, שתובאו כתגובה למעשיו. ספר שמואל ב' מתאר באופן מפורט את הפרשנות היהודית למעשי דוד והתקופה שבה הוא מלך, כולל ימי הצרות והניסים שחווה.",
+        "tasks": [
+            {
+                "name": "משימה 6",
+                "type": "closed Question",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 5",
+                "type": "content",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 4",
+                "type": "open Question",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 3",
+                "type": "content",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 2",
+                "type": "closed Question",
+                "points": 16.67
+            },
+            {
+                "name": "משימה 1",
+                "type": "open Question",
+                "points": 16.67
+            }
+        ],
+        "students": [
+            {
+                "name": "יוסף לוי",
+                "skipped": false,
+                "comments": "מציג התמדה מצוינת בשיעור, תמיד משתתף ומשתייך בפעילות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "שירה כהן",
+                "skipped": false,
+                "comments": "צריך להקדיש יותר תשומת לב בשיעורים, לעיתים מוסר ותשומת לב לא מספיקה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "עמית כהן",
+                "skipped": false,
+                "comments": "מציג שיפור משמעותי בהשתתפות והתמדה לאחרונה, ממשיך כך!",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "רוני גולן",
+                "skipped": false,
+                "comments": "נאבק לשמור על תשומת הלב במהלך הדיונים, יכול להרוויח מהטמעת טכניקות שמיעה פעילות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "אורן שוורץ",
+                "skipped": false,
+                "comments": "תמיד קשוב ומרוכז, מציב מודל חיובי לכמותו של חבריו בכיתה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "נילי בראון",
+                "skipped": false,
+                "comments": "דורש תזכורות מדי פעם כדי לשמור על ריכוז במהלך השיעורים אך מציג שיפור מעל זמן",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "skipped",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "עמית בן אברהם",
+                "skipped": false,
+                "comments": "מתאים עם התלהבות ממידע, אך יכול להרוויח מתשומת לב יותר עדינה להוראות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "מארק דהן",
+                "skipped": false,
+                "comments": "נראה מנותק במהלך השיעור, עשוי להרוויח מתמיכה נוספת או שיטות הוראה אלטרנטיביות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "6/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "רוני שטיינברג",
+                "skipped": false,
+                "comments": "לעיתים נמשך על ידי גורמים חיצוניים, יכול להרוויח ממציאת אסטרטגיות להפחתת הפרעות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "יוסי כהן",
+                "skipped": false,
+                "comments": "לעיתים נמשך על ידי גורמים חיצוניים, יכול להרוויח ממציאת אסטרטגיות להפחתת הפרעות",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "נעמה גולדשטיין",
+                "skipped": false,
+                "comments": "מציגה באופן קבוע מעורבות חזקה בחומר, שואלת שאלות מאתגרות ומחפשת הבהרות כשנדרשת",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "אלון לוי",
+                "skipped": false,
+                "comments": "לעיתים מתעסק בשיחות לא רלוונטיות, נדרש להופנות כדי לשמור על המשימה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "mid",
+                        "grade": "3/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "משה חי כהן",
+                "skipped": false,
+                "comments": "מתקשה לשמור על ריכוז במהלך שיעורים ארוכים יותר, יכול להרוויח מהטמעת הפסקות קצרות להתמקדות מחדש",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "unchecked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "יעקב בראון",
+                "skipped": false,
+                "comments": "מציג באופן קבוע מיומנויות שמיעה פעילות, מתרומם בצורה מחשיבה לדיוני הכיתה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "ירון רוזנפלד",
+                "skipped": false,
+                "comments": "מציג באופן קבוע מיומנויות שמיעה פעילות, מתרומם בצורה מחשיבה לדיוני הכיתה",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "perfect",
+                        "grade": "10/10",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            },
+            {
+                "name": "ירון דנינו",
+                "skipped": true,
+                "comments": "נראה נעלם במהלך השיעורים, עשוי להרוויח מהופנות נוספות ומעורבות בהם",
+                "tasks": [
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "empty",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "inprogress",
+                        "grade": "none",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "failed",
+                        "grade": "1/5",
+                        "points": 16.67
+                    },
+                    {
+                        "status": "checked",
+                        "grade": "none",
+                        "points": 16.67
+                    }
+                ]
+            }
+        ]
+    }
+]
